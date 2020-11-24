@@ -1,0 +1,9 @@
+fragment Locale on Locale {
+  remoteTypeName: __typename
+  remoteId: id
+  id
+  name
+  code
+  isActive
+  isDefault
+}

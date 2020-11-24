@@ -1,0 +1,13 @@
+fragment Image on Image {
+  remoteTypeName: __typename
+  remoteId: id
+  id
+  size
+  width
+  height
+  mimeType
+  uploadedAt
+  createdAt
+  lastUpdatedAt
+  url
+}

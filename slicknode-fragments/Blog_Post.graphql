@@ -1,0 +1,27 @@
+fragment Blog_Post on Blog_Post {
+  remoteTypeName: __typename
+  remoteId: id
+  id
+  title
+  teaser
+  slug
+  image {
+    id
+    remoteTypeName: __typename
+    remoteId: id
+  }
+  text
+  locale {
+    id
+    remoteTypeName: __typename
+    remoteId: id
+  }
+  createdAt
+  lastUpdatedAt
+  publishedAt
+  contentNode {
+    id
+    remoteTypeName: __typename
+    remoteId: id
+  }
+}
