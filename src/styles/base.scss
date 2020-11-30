@@ -1,0 +1,11 @@
+body {
+  font-family: "Lucinda Grande", "Lucinda Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+
+a {
+  color: #3498db;
+
+  &:hover {
+    color: #2980b9;
+  }
+}

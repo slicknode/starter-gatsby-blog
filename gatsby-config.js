@@ -48,5 +48,8 @@ module.exports = {
         typePrefix: "Slicknode_",
       },
     },
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
+    'gatsby-plugin-sass',
   ],
 }
