@@ -1,0 +1,29 @@
+.teaser {
+}
+
+.figure {
+    width: 12rem;
+    line-height: 0;
+}
+
+.content {
+    padding: 0.7rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #eaeaea;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 2rem 0;
+
+    a {
+        text-decoration: none;
+    }
+
+    &:hover {
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 16px 0px;
+    }
+}
