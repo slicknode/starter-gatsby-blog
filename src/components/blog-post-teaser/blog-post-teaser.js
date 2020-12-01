@@ -1,7 +1,7 @@
 import { graphql, Link } from "gatsby"
 import * as React from "react"
 import Img from "gatsby-image"
-import styles from './blog-post-teaser.module.scss';
+import styles from "./blog-post-teaser.module.scss"
 
 export function BlogPostTeaser({ post }) {
   return (

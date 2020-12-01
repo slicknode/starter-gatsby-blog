@@ -2,7 +2,7 @@ import React from "react"
 import { DefaultLayout } from "../components/default-layout"
 import { graphql } from "gatsby"
 import { Markdown } from "../components/markdown"
-import styles from './blog-post.module.scss';
+import styles from "./blog-post.module.scss"
 import Img from "gatsby-image"
 
 export default function BlogPostPage({ data: { post } }) {

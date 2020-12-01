@@ -1,6 +1,6 @@
 import * as React from "react"
 import { Helmet } from "react-helmet"
-import styles from './default-layout.module.scss';
+import styles from "./default-layout.module.scss"
 
 export function DefaultLayout(props) {
   return (
@@ -16,7 +16,11 @@ export function DefaultLayout(props) {
         <footer className={styles.footer}>
           <small>
             Powered by{" "}
-            <a href={"https://slicknode.com"} target={"_blank"} rel="noreferrer">
+            <a
+              href={"https://slicknode.com"}
+              target={"_blank"}
+              rel="noreferrer"
+            >
               Slicknode Headless GraphQL CMS
             </a>
           </small>
