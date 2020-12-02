@@ -1,3 +1,0 @@
-query AccessTokenPermission1 {
-  scope(role: ADMIN, operations: [READ])
-}
