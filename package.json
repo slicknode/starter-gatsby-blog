@@ -15,22 +15,23 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^2.26.1",
-    "gatsby-image": "^2.6.0",
-    "gatsby-plugin-sharp": "^2.9.0",
-    "gatsby-source-slicknode": "^0.0.3",
-    "gatsby-transformer-sharp": "^2.7.0",
+    "gatsby": "^2.31.1",
+    "gatsby-image": "^2.10.0",
+    "gatsby-plugin-sharp": "^2.13.3",
+    "gatsby-source-slicknode": "^0.0.5",
+    "gatsby-transformer-sharp": "^2.11.0",
+    "graphql": "^15.5.0",
     "lodash": "^4.17.20",
-    "markdown-it": "^12.0.2",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
+    "markdown-it": "^12.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "gatsby-plugin-sass": "^2.6.0",
-    "node-sass": "^4.0.0",
-    "prettier": "2.1.2",
-    "slicknode": "^0.10.1"
+    "gatsby-plugin-sass": "^3.1.0",
+    "node-sass": "^5.0.0",
+    "prettier": "^2.2.1",
+    "slicknode": "^0.11.0"
   },
   "repository": {
     "type": "git",
