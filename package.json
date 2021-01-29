@@ -31,7 +31,7 @@
     "gatsby-plugin-sass": "^3.1.0",
     "node-sass": "^5.0.0",
     "prettier": "^2.2.1",
-    "slicknode": "^0.11.0"
+    "slicknode": "^0.11.1"
   },
   "repository": {
     "type": "git",
